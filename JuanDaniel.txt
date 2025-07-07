@@ -1,0 +1,3 @@
+esta es una prueba de ingreso cuando la url no existe y se crea una nuevo archivo txt en la raiz del proyecto.
+
+mas datos y validacion de caracteres especiales en la url
